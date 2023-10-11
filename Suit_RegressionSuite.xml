@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name=" ">
+	<parameter name="browser" value="chrome-headless" />
+	<test name="Regression Test" preserve-order="false">
+		<classes>
+
+			<class name="Dashboard.Stakeholders.ManageCustom.US15834.FilterCustomer.TCH15884" />
+			<class name="Dashboard.Stakeholders.ManageCustom.US15834.FilterCustomer.TC15887" />
+
+		</classes>
+	</test>
+</suite> 

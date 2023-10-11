@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="_ApiLogin">
+    <test name="API Test" preserve-order="false">
+        <classes>
+            <class name="Dashboard.$DashboardApi.V2_0.AdminLogin.USE14599.TestCases_Login.TC001" />
+            <class name="Dashboard.$DashboardApi.V2_0.AdminLogin.USE14599.TestCases_Login.TC002" />
+            <class name="Dashboard.$DashboardApi.V2_0.AdminLogin.USE14599.TestCases_Login.TC003" />
+            <class name="Dashboard.$DashboardApi.V2_0.AdminLogin.USE14599.TestCases_Login.TC004" />
+            <class name="Dashboard.$DashboardApi.V2_0.AdminLogin.USE14599.TestCases_Login.TC005" />
+
+        </classes>
+    </test>
+</suite>
